@@ -22,8 +22,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Version
-- Laravel Version
-- Livewire Version
+- Laravel Framework Version 8.55.0
+- Livewire Version 
+- [Maatwebsite](https://docs.laravel-excel.com/3.0/getting-started/installation.html/)**
 
 ### Premium Partners
 
