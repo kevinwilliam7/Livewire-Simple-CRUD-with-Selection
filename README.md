@@ -27,10 +27,17 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - **[Livewire](https://laravel-livewire.com/) Version**
 - **[Laravel Excel](https://docs.laravel-excel.com/3.0/getting-started/installation.html) Version**
 
-## How to install Component
+## Installation
 
 - "composer require maatwebsite/excel"
 - "composer require livewire/livewire"
+
+## Features
+- [X] Select All
+- [V] Selection Export
+- [V] Selection Delete
+- [V] Create Data
+- [X] Update Data
 
 ## Preview
 
