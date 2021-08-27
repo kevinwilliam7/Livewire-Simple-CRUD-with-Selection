@@ -32,6 +32,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - "composer require maatwebsite/excel"
 - "composer require livewire/livewire"
 
+## Preview
+
+this image
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
