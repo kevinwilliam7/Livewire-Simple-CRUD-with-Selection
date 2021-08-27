@@ -45,7 +45,7 @@ composer require livewire/livewire
 
 ## Preview
 
-this image
+![image](https://user-images.githubusercontent.com/76833135/131102974-b372f65c-dee2-486c-87a9-30013b20139c.png)
 
 ## License
 
