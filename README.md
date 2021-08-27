@@ -29,7 +29,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Installation
 
-```composer require maatwebsite/excel
+```
+composer require maatwebsite/excel
 composer require livewire/livewire
 ```
 
