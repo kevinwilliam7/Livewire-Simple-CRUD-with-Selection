@@ -33,6 +33,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - "composer require livewire/livewire"
 
 ## Features
+- [X] Live Search
+- [X] Pagination
 - [ ] Select All
 - [X] Selection Export
 - [X] Selection Delete
