@@ -25,7 +25,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 - **[Laravel Framework](https://laravel.com/) Version 8.55.0**
 - **[Livewire](https://laravel-livewire.com/) Version 2.5.5**
-- **[Laravel Excel](https://docs.laravel-excel.com/3.0/getting-started/installation.html) Version 3.1**
+- **[Laravel Excel](https://docs.laravel-excel.com/3.0/getting-started/installation.html) Version 3.1.0**
 
 ## Installation
 
